@@ -1,4 +1,4 @@
-# RGB Selector
+# RGB 셀렉터
 
 ![](screenshot.png)
 
@@ -9,7 +9,12 @@
 
 주요 소스코드는 **[Form1.cs](RGB셀렉터/Form1.cs)** 파일을 참조하세요
 
-![](screenshot.png)
+
+
+
+# RGB Selector
+
+
 
 Applications that can easily check RGB values
 
